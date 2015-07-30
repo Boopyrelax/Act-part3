@@ -1,4 +1,6 @@
 # Act-part3
+Je suis en train de me former sur les cours bootstrap et git/github en parallèle voici pourquoi j'ai choisi de suivre l'activité à rendre pour le cours de Bootstrap de sorte à répondre aux exigences de l'activité du cours git/github. Voici ce que contient ce code:
+
 Ceci est l'activité proposée dans la troisième partie du cours Bootstrap.
 Il fallait :
 - Créer un menu de navigation fixe et rétractable sur petit écran
